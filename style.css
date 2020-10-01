@@ -1,0 +1,24 @@
+body{
+    background-color: lightgrey;
+    margin-right:12px ;
+}
+h1{
+    background-color: brown;
+}
+p{
+    font-family: cursive;
+    font-style: bold;
+    font-size: 28px;
+    text-decoration-line: underline;
+}
+img
+    {
+         margin-top: 40px;
+    }
+    h2 {
+        background-color: brown;
+    }
+    h3 {
+        background-color: brown;
+    }
+   
